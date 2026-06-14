@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Logout_mdi mdi-menu</name>
+   <tag></tag>
+   <elementGuidId>6d659a03-232e-4533-bf4a-ffb285334c40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/nav/ul[2]/li/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f6fbb0c8-be3d-4d97-9256-1f2d7fdd3b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-menu</value>
+      <webElementGuid>218e9bfa-ca18-4e09-9144-c0dbbd85a9bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;topbar&quot;]/nav[@class=&quot;navbar-custom&quot;]/ul[@class=&quot;list-inline menu-left mb-0&quot;]/li[@class=&quot;float-left&quot;]/button[@class=&quot;button-menu-mobile open-left waves-effect&quot;]/i[@class=&quot;mdi mdi-menu&quot;]</value>
+      <webElementGuid>28cdfd7d-66ed-4b11-a86e-c644ae4cb04e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/nav/ul[2]/li/button/i</value>
+      <webElementGuid>8512ae9e-8dc7-4b59-8dd3-2d40a88c463f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button/i</value>
+      <webElementGuid>2add18a0-6ef3-4df4-8ebf-47703e34efe6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Delete_fa fa-trash</name>
+   <tag></tag>
+   <elementGuidId>513b30d3-6e1c-4bde-aa41-77cdc918af8c</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable-buttons']/tbody/tr[3]/td[7]/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;datatable-buttons&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[7]/a[@class=&quot;btn btn-danger btn-sm delete btn-flat&quot;]/i[@class=&quot;fa fa-trash&quot;]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Delete&quot;i] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>902f02a4-aed4-487b-b18d-32e0fe377920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash</value>
+      <webElementGuid>3c789f9a-618a-480e-8946-4b216091b53d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-buttons&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[7]/a[@class=&quot;btn btn-danger btn-sm delete btn-flat&quot;]/i[@class=&quot;fa fa-trash&quot;]</value>
+      <webElementGuid>82410476-4171-446b-bc13-a8028c8107e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable-buttons']/tbody/tr[3]/td[7]/a[2]/i</value>
+      <webElementGuid>69315c26-573d-41da-b107-52bfbd99a27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[7]/a[2]/i</value>
+      <webElementGuid>f3468b84-30b4-4a20-a9f2-f002159738af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

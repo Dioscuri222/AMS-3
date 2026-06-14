@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat sidik jari yang tidak terdaftar dipindai</description>
+   <name>S1.7_TC02_NoStaffFingerprint</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>475d02b5-757d-43ff-9b85-9b08108cb3ff</testCaseGuid>
+</TestCaseEntity>

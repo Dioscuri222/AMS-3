@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Admin: dapat melakukan login ke dalam sistem untuk mengakses fitur manajemen absensi</description>
+   <name>BR_001_DB</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c4927b9d-eb18-4bbc-bb5d-239e7363d365</testSuiteGuid>
+   <testCaseLink>
+      <guid>84daf5b7-70ac-4781-9f7b-27686171abe9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCase_DDT/S1.1_TC_LOGIN DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d638f672-4988-44a2-a6dd-900225a0821a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data_login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d638f672-4988-44a2-a6dd-900225a0821a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>37789772-caf7-4b02-ba92-dc5b9137b6e8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d638f672-4988-44a2-a6dd-900225a0821a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>3552eed7-75e8-465f-bb6d-232a15e26435</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d638f672-4988-44a2-a6dd-900225a0821a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>warningMsg</value>
+         <variableId>fdce7f8c-dbab-4911-8110-e27f93cb8a96</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d638f672-4988-44a2-a6dd-900225a0821a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testType</value>
+         <variableId>84ee9e2a-35d9-4b39-9109-1c02b1ef808a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

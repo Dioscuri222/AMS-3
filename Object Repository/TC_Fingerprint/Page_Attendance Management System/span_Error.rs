@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Error</name>
+   <tag></tag>
+   <elementGuidId>3ccdb950-bdd3-419f-8788-e7437dce1409</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='C:\STQA\Attendance_Management_System\'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-exception-class > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Error&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee5973f6-9bf8-498b-96e6-81fa0741ef18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error</value>
+      <webElementGuid>b203f8e9-db77-4563-8c59-4effaa61229d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;theme-light&quot;]/body[@class=&quot;scrollbar-lg&quot;]/div[1]/div[1]/div[@class=&quot;layout-col z-10&quot;]/div[@class=&quot;mt-12 card card-has-header card-no-props&quot;]/div[@class=&quot;card-details&quot;]/div[@class=&quot;card-details-overflow scrollbar p-12 pt-10&quot;]/div[@class=&quot;text-2xl&quot;]/span[@class=&quot;ui-exception-class&quot;]/span[1]</value>
+      <webElementGuid>ddefc5b0-94e1-41a8-996f-1e41d88a8693</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C:\STQA\Attendance_Management_System\'])[1]/following::span[2]</value>
+      <webElementGuid>e8e83aca-49a8-4bf1-9aaf-30f16dfb308b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call to undefined function Rats\Zkteco\Lib\socket_create()'])[1]/preceding::span[1]</value>
+      <webElementGuid>7d38752b-467e-401a-8b58-895c4bf3c076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='http://127.0.0.1:8000/finger_device'])[1]/preceding::span[1]</value>
+      <webElementGuid>f3e55a6d-82ca-458c-892f-4e05773b5462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Error']/parent::*</value>
+      <webElementGuid>6f5941e7-fbb2-47c8-a235-01a3a9e84647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span/span</value>
+      <webElementGuid>a4e61560-9e0a-46d9-bec8-e152bc67fda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Error' or . = 'Error')]</value>
+      <webElementGuid>37f6c547-cfcc-4360-a49a-082218aeab3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa apakah staf yang dihapus tidak dapat lagi melakukan absensi</description>
+   <name>S1.5_TC02_DeletedStaffBehav</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41555f6b-44c7-4fa5-9d90-aa1067e89e4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14b214fd-5aa8-4fa8-9107-41321452a1ce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'zidan'</defaultValue>
+      <description></description>
+      <id>14b214fd-5aa8-4fa8-9107-41321452a1ce</id>
+      <masked>false</masked>
+      <name>Zidan</name>
+   </variable>
+</TestCaseEntity>

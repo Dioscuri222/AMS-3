@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat menambahkan staf dengan Email duplikat.</description>
+   <name>S1.2_TC02_DupeStaff</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3044eda1-bd9f-4f00-bce4-1783e90e413d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51daa6c4-2672-4ebc-9ade-138fa9c28300</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'fasya'</defaultValue>
+      <description></description>
+      <id>51daa6c4-2672-4ebc-9ade-138fa9c28300</id>
+      <masked>false</masked>
+      <name>DupeName</name>
+   </variable>
+</TestCaseEntity>

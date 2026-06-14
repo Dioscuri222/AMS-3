@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat kolom-kolom dibiarkan kosong</description>
+   <name>S1.1_TC02_LoginEmpty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e84f3df9-8b60-48b0-bd1d-81be447dbf8b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat memperbarui informasi staf</description>
+   <name>S1.4_TC01_UpdateStaff</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>851b4179-8d12-490c-aa5c-2458233f9572</testCaseGuid>
+</TestCaseEntity>

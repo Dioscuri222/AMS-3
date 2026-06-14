@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat menghapus catatan staf</description>
+   <name>S1.5_TC01_DeleteStaff</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0fda07e8-02b6-4bf3-bbb0-28f7e8421a2e</testCaseGuid>
+</TestCaseEntity>

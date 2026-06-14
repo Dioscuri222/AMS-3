@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat mendaftarkan sidik jari baru</description>
+   <name>S1.6_TC01_NewFingerprint</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a287ed9-d088-4320-a487-c23bdab5826a</testCaseGuid>
+</TestCaseEntity>

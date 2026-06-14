@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa fungsionalitas pencarian berdasarkan nama atau ID</description>
+   <name>S1.3_TC02_SearchID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd298f3a-4061-4863-be7e-9e7a291d749b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>417ac5b1-ae48-4809-8830-99daed9f0ac7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'zidan'</defaultValue>
+      <description></description>
+      <id>417ac5b1-ae48-4809-8830-99daed9f0ac7</id>
+      <masked>false</masked>
+      <name>Zidan</name>
+   </variable>
+</TestCaseEntity>

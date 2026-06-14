@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa apakah perubahan disimpan dengan benar di basis data</description>
+   <name>S1.4_TC02_ReadUpdateStaff</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b76a3de-882f-476f-9c16-ea5c875d515c</testCaseGuid>
+</TestCaseEntity>

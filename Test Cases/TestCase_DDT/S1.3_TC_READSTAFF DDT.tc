@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S1.3_TC_READSTAFF DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dafafdb9-ea57-470f-b1fe-0103bd15c676</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a43bd2ab-4e52-4247-ab02-37c1d4d4c32b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26738d2e-2d18-4c38-bf05-d9e28240cef5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a43bd2ab-4e52-4247-ab02-37c1d4d4c32b</id>
+      <masked>false</masked>
+      <name>testType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>26738d2e-2d18-4c38-bf05-d9e28240cef5</id>
+      <masked>false</masked>
+      <name>searchKeyword</name>
+   </variable>
+</TestCaseEntity>

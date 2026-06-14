@@ -1,0 +1,57 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+// S1.4 TC01 UpdateStaff
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl(GlobalVariable.NavigateToURL)
+
+WebUI.sendKeys(findTestObject('TC_Login/Page_Attendance Management System/input_Email Address_email'), GlobalVariable.sendkeys)
+
+WebUI.sendKeys(findTestObject('TC_Login/Page_Attendance Management System/input_Password_password'), GlobalVariable.sendpassword)
+
+WebUI.click(findTestObject('TC_Login/Page_Attendance Management System/button_Log In'))
+
+WebUI.click(findTestObject('TC_AddStaff/span_Employees'))
+
+WebUI.click(findTestObject('TC_AddStaff/span_Employees List'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('TC_UpdateStaff/Page_Attendance Management System/i_Edit_fa fa-edit'))
+
+WebUI.clearText(findTestObject('TC_UpdateStaff/Page_Attendance Management System/input_Email_email'))
+
+WebUI.sendKeys(findTestObject('TC_UpdateStaff/Page_Attendance Management System/input_Email_email'), 'zidan123@ams.com')
+
+WebUI.click(findTestObject('TC_UpdateStaff/Page_Attendance Management System/Shift_Pagi'))
+
+// ... (Script awal kamu tetap sama) ...
+// Tunggu sampai dropdown Schedule muncul dan bisa diakses
+WebUI.waitForElementClickable(findTestObject('TC_UpdateStaff/Page_Attendance Management System/Shift_Pagi'), 5)
+
+// Gunakan selectOptionByValue karena atribut 'value' pada tag <option> adalah "Pagi"
+WebUI.selectOptionByValue(findTestObject('TC_UpdateStaff/Page_Attendance Management System/Shift_Pagi'), 'Pagi', false)
+
+WebUI.click(findTestObject('TC_UpdateStaff/Page_Attendance Management System/button_Update'))
+
+WebUI.verifyElementVisible(findTestObject('TC_UpdateStaff/Page_Attendance Management System/div_Employee Record has been Updated successfully'))
+
+WebUI.closeBrowser()
+

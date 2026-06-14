@@ -1,0 +1,4 @@
+testCaseID,testType,email,password,warningMsg
+S1.1_TC01,P,admin@ams.com,admin@ams.com,
+S1.1_TC02,N, , ,Please fill out this field
+S1.1_TC03,N,java@ams.com,java,These credentials do not match our records.

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S1.4_TC_EDITSTAFF DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc76c07d-3449-481a-a09d-21a759da35e3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ce53f2aa-27a5-4ee2-ac11-1874a1280303</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75c244b4-8886-4e8e-9619-0ff8af90b48b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a71b0439-75ca-49c2-be6e-4175832600f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce53f2aa-27a5-4ee2-ac11-1874a1280303</id>
+      <masked>false</masked>
+      <name>testType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75c244b4-8886-4e8e-9619-0ff8af90b48b</id>
+      <masked>false</masked>
+      <name>staffEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a71b0439-75ca-49c2-be6e-4175832600f4</id>
+      <masked>false</masked>
+      <name>staffSchedule</name>
+   </variable>
+</TestCaseEntity>

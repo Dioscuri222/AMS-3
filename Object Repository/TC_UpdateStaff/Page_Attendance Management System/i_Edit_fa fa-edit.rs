@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Edit_fa fa-edit</name>
+   <tag></tag>
+   <elementGuidId>ef121162-0551-4a4c-8bb9-ba5dbbc049de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datatable-buttons']/tbody/tr[3]/td[7]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Edit&quot;i] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e5abd29b-c508-47c3-8235-fbd3f7d6a6a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit</value>
+      <webElementGuid>18629d51-3247-4f1c-be60-76975d014ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable-buttons&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[7]/a[@class=&quot;btn btn-success btn-sm edit btn-flat&quot;]/i[@class=&quot;fa fa-edit&quot;]</value>
+      <webElementGuid>01ba8cb3-d2e3-4599-8d0d-25784fc0be37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datatable-buttons']/tbody/tr[3]/td[7]/a/i</value>
+      <webElementGuid>e729250d-93cd-4c09-bb8e-45af3a3b880c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[7]/a/i</value>
+      <webElementGuid>cfbad0cb-f112-42f2-a758-fde3ed8d4de6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

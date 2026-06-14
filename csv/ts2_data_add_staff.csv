@@ -1,0 +1,4 @@
+testCaseID,testType,staffName,staffPosition,staffEmail,staffSchedule
+S1.2_TC01,P,zidan,office-boy,zidan@ams.com,Pagi
+S1.2_TC02,N,fasya,office-boy,zidan123@ams.com,Sore
+S1.2_TC03,N, ,CEO,Fasya@ams.com,Pagi

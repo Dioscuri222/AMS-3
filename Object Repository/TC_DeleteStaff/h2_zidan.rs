@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_zidan</name>
+   <tag></tag>
+   <elementGuidId>0733d472-4354-44d1-8be6-a76b07a8fe5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#deletezidan > div.modal-dialog > div.modal-content > div.modal-body > form.form-horizontal > div.text-center > h2.bold.del_employee_name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='deletezidan']/div/div/div[2]/form/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;zidan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d28d75b5-1b22-4958-ab67-a9ba82c15a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bold del_employee_name</value>
+      <webElementGuid>d631fa1f-cfdb-4f8f-b86d-74c6b01c3a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>zidan</value>
+      <webElementGuid>9b98c35e-ecb0-4f39-b245-0bfa4c04b4e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deletezidan&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;text-center&quot;]/h2[@class=&quot;bold del_employee_name&quot;]</value>
+      <webElementGuid>1f5ac7c2-7de5-4adb-9e4d-e7a3650ca65a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='deletezidan']/div/div/div[2]/form/div/h2</value>
+      <webElementGuid>016e62bc-9042-475f-a78a-1c80de09ca8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete:'])[3]/following::h2[1]</value>
+      <webElementGuid>2c141f64-542b-4280-bc6c-e120c93de7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Employee'])[3]/following::h2[1]</value>
+      <webElementGuid>21df6ae9-5fc6-4f45-a40e-ca3957a957e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[6]/preceding::h2[1]</value>
+      <webElementGuid>a717e53f-822e-4b20-b2e9-cb0194d9543e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[6]/preceding::h2[1]</value>
+      <webElementGuid>03e028c6-85bf-4799-b5b3-bb882d121176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/form/div/h2</value>
+      <webElementGuid>340ea0e8-a622-4174-85b4-fbfdeebac46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'zidan' or . = 'zidan')]</value>
+      <webElementGuid>95fd6bf4-0752-4775-93b0-0942f5a9a9b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

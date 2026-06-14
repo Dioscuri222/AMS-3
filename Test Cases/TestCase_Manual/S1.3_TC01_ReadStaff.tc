@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa apakah daftar staf ditampilkan dengan benar</description>
+   <name>S1.3_TC01_ReadStaff</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d1a8b55-65bb-4587-a427-2eb8233d0c37</testCaseGuid>
+</TestCaseEntity>

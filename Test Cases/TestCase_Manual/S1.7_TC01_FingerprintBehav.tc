@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat sidik jari terdaftar dipindai</description>
+   <name>S1.7_TC01_FingerprintBehav</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0082a4ce-0073-4d0b-9456-f1f2a7e495d5</testCaseGuid>
+</TestCaseEntity>

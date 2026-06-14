@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Admin: dapat mendaftarkan staff ke dalam sistem database</description>
+   <name>BR_002_DB</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>450e8c92-9004-4c10-afd5-e7f2da366bc3</testSuiteGuid>
+   <testCaseLink>
+      <guid>972c332f-c192-48a1-b215-4b9c7d653458</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCase_DDT/S1.2_TC_ADDSTAFF DDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>92f6d099-3dc5-4f31-9a37-a2e6f7aaa25d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data_staff</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>92f6d099-3dc5-4f31-9a37-a2e6f7aaa25d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testType</value>
+         <variableId>f2100914-9da5-4658-badd-be555342cdd0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92f6d099-3dc5-4f31-9a37-a2e6f7aaa25d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>staffName</value>
+         <variableId>41aedf7f-25f8-4241-9878-c65251904664</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92f6d099-3dc5-4f31-9a37-a2e6f7aaa25d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>staffPosition</value>
+         <variableId>ae180507-a3d6-4e05-9ea4-69ce6d946882</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92f6d099-3dc5-4f31-9a37-a2e6f7aaa25d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>staffEmail</value>
+         <variableId>1a8edfba-89c5-4bca-a0a8-29fe4f6a60bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92f6d099-3dc5-4f31-9a37-a2e6f7aaa25d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>staffSchedule</value>
+         <variableId>41a094e7-48d1-43ff-a092-d05ba28b504b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

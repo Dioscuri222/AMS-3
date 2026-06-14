@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat nama pengguna dan kata sandi yang valid dimasukkan.</description>
+   <name>S1.1_TC01_LoginSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>867c9798-d854-4787-8471-8198c7edebfe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99fa5dce-5b0a-4cfd-8521-cdc6aaff0bb0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc1d1d9c-8166-4bad-b1dc-d2838108c199</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.sendkeys</defaultValue>
+      <description></description>
+      <id>99fa5dce-5b0a-4cfd-8521-cdc6aaff0bb0</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.sendkeys</defaultValue>
+      <description></description>
+      <id>cc1d1d9c-8166-4bad-b1dc-d2838108c199</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

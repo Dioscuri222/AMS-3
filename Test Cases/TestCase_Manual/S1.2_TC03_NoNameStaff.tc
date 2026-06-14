@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat menambahkan staf dengan Email duplikat.</description>
+   <name>S1.2_TC03_NoNameStaff</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65cee21f-8583-49e8-9cfc-d7ea12952772</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5e40b6a-518e-48d9-9326-d16657109313</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8c49627-d3e7-4b66-a297-fa8eaa0555ca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CEO'</defaultValue>
+      <description></description>
+      <id>d5e40b6a-518e-48d9-9326-d16657109313</id>
+      <masked>false</masked>
+      <name>Posisi</name>
+   </variable>
+   <variable>
+      <defaultValue>'fasya@ams.com'</defaultValue>
+      <description></description>
+      <id>f8c49627-d3e7-4b66-a297-fa8eaa0555ca</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

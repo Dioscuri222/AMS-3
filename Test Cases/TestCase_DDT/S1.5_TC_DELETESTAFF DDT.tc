@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S1.5_TC_DELETESTAFF DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8aa4d929-b3c7-4755-b0dc-707464e3167c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91244dba-d69b-4389-840e-28781fe7f9b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c55ac019-acaa-4120-a5db-c903951b1bb7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91244dba-d69b-4389-840e-28781fe7f9b9</id>
+      <masked>false</masked>
+      <name>testType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c55ac019-acaa-4120-a5db-c903951b1bb7</id>
+      <masked>false</masked>
+      <name>searchKeyword</name>
+   </variable>
+</TestCaseEntity>

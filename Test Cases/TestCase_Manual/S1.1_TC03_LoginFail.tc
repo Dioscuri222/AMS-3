@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat kredensial yang tidak valid dimasukkan.</description>
+   <name>S1.1_TC03_LoginFail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc2a24de-4f93-4c25-a2d7-824dbc2f1a2d</testCaseGuid>
+</TestCaseEntity>

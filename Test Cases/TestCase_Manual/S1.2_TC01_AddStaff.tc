@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa perilaku sistem saat nama pengguna dan kata sandi yang valid dimasukkan.</description>
+   <name>S1.2_TC01_AddStaff</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93d6c641-61eb-406f-8efc-c1e580f51efa</testCaseGuid>
+</TestCaseEntity>
