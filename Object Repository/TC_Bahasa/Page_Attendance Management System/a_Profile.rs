@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Profile</name>
+   <tag></tag>
+   <elementGuidId>f594cca5-471f-4402-8272-f970e57688f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/nav/ul/li[5]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-menu.dropdown-menu-right.profile-dropdown.show > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c2de45b9-8d9d-4c35-b30f-bd057afc98a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>87d35e80-9d96-42b7-b5e4-39ba7e16ab68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>b0b90da0-a610-4a13-8c72-d2363825a5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Profile</value>
+      <webElementGuid>cfdd0af8-f1e8-403f-8584-1d3e60655318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;topbar&quot;]/nav[@class=&quot;navbar-custom&quot;]/ul[@class=&quot;navbar-right d-flex list-inline float-right mb-0&quot;]/li[@class=&quot;dropdown notification-list&quot;]/div[@class=&quot;dropdown notification-list nav-pro-img show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-right profile-dropdown show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>c126de8b-35be-4fce-9a31-1d80b71a397e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/nav/ul/li[5]/div/div/a</value>
+      <webElementGuid>a9af32d9-b146-473c-a4a7-6c842e8a741f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Profile')]</value>
+      <webElementGuid>842714e8-5bad-475a-8400-29edc61abb5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all'])[1]/following::a[2]</value>
+      <webElementGuid>b41feef6-9c32-411f-af5f-e01cadece184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have 87 unread messages'])[2]/following::a[3]</value>
+      <webElementGuid>9867c54f-d557-4ecc-a14c-d7bf847008ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[2]</value>
+      <webElementGuid>95b09783-2927-4729-9e1d-fc6df1e4a2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Main'])[1]/preceding::a[3]</value>
+      <webElementGuid>6dbb454b-fd46-4769-9b72-be5cca132685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile']/parent::*</value>
+      <webElementGuid>b3cd4c4c-ad0f-4b5f-8500-db2798d7f3f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[10]</value>
+      <webElementGuid>3ea8985c-66bc-430d-ad7b-3d2aee1630c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/a</value>
+      <webElementGuid>d0aa6d57-f7be-4801-b85a-b15698192564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = ' Profile' or . = ' Profile')]</value>
+      <webElementGuid>f907f1fc-01f7-4cf6-8589-4ceff83115fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

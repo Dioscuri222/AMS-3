@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa fungsionalitas fitur penguncian layar melalui tombol &quot;Lock Screen&quot;.</description>
+   <name>S1.16_TC03_Lock</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>381f94b4-abee-4b57-ba00-1f01b26fbac3</testCaseGuid>
+</TestCaseEntity>

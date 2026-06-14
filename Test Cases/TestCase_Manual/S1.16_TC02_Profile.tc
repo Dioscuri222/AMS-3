@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa respons sistem saat Admin mengklik tombol tautan &quot;Profiles&quot; pada dropdown profil.</description>
+   <name>S1.16_TC02_Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29918731-06cc-4097-917a-572d3bd4aadd</testCaseGuid>
+</TestCaseEntity>

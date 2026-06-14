@@ -9,9 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>11.1.1</modifiedVersion>
+   <modifiedVersion>11.2.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\fasya\OneDrive - Universitas Muhammadiyah Yogyakarta\Documents\1.Kuliah\SEMESTER_4\STQA\AMS\Group3-AMS\Group3-AMS.prj</projectFileLocation>
+   <projectFileLocation>C:\Katalon\AMS-3\Group3-AMS.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

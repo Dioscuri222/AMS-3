@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_A_mdi mdi-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>647b2277-2449-4f17-8c97-a10799556435</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/nav/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mdi.mdi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;English &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff2eac07-2ec9-46af-a3e3-4eee59f56b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-chevron-down</value>
+      <webElementGuid>ff2b4bee-10e0-4cea-bb05-60b11698a98d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;topbar&quot;]/nav[@class=&quot;navbar-custom&quot;]/ul[@class=&quot;navbar-right d-flex list-inline float-right mb-0&quot;]/li[@class=&quot;dropdown notification-list d-none d-md-block&quot;]/a[@class=&quot;nav-link dropdown-toggle arrow-none waves-effect&quot;]/span[@class=&quot;mdi mdi-chevron-down&quot;]</value>
+      <webElementGuid>b0007a54-2ca6-4e9d-b282-3b185b0a6a48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/nav/ul/li[2]/a/span</value>
+      <webElementGuid>3a7db153-3765-4687-b997-224e6c55f532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>401de5e6-84a3-4707-a0e4-1d42a9a14ed8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
